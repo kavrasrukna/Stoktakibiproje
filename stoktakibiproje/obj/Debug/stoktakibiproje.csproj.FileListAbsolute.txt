@@ -1,0 +1,616 @@
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.dll.config
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.pdb
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.exe
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.exe.config
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.rsp
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.exe
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.exe.config
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.rsp
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.AppContext.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Console.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Net.Http.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.exe
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.exe.config
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.rsp
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\EntityFramework.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\EntityFramework.SqlServer.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\System.Web.Helpers.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\System.Web.Mvc.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\System.Web.Razor.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Razor.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\EntityFramework.xml
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\EntityFramework.SqlServer.xml
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\System.Web.Razor.xml
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.xml
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Razor.xml
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\System.Web.Helpers.xml
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\System.Web.Mvc.xml
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.AssemblyReference.cache
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.CoreCompileInputs.cache
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.CopyComplete
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.dll
+C:\Users\Rükna\source\repos\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.pdb
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.dll.config
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.pdb
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.exe
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.exe.config
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.rsp
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.exe
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.exe.config
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.rsp
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.AppContext.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Console.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Net.Http.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.exe
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.exe.config
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.rsp
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\EntityFramework.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\EntityFramework.SqlServer.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Helpers.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Mvc.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Razor.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Razor.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\EntityFramework.xml
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\EntityFramework.SqlServer.xml
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Razor.xml
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.xml
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Razor.xml
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Helpers.xml
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Mvc.xml
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.AssemblyReference.cache
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.CoreCompileInputs.cache
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.CopyComplete
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.dll
+C:\Users\Rükna\Desktop\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.pdb
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.dll.config
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.pdb
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.exe
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.exe.config
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.rsp
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.exe
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.exe.config
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.rsp
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.AppContext.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Console.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Net.Http.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.exe
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.exe.config
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.rsp
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\EntityFramework.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\EntityFramework.SqlServer.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\System.Web.Helpers.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\System.Web.Mvc.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\System.Web.Razor.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Razor.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\EntityFramework.xml
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\EntityFramework.SqlServer.xml
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\System.Web.Razor.xml
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.xml
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Razor.xml
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\System.Web.Helpers.xml
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\System.Web.Mvc.xml
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.AssemblyReference.cache
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.CoreCompileInputs.cache
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.CopyComplete
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.dll
+C:\Users\Rükna\Desktop\dapperuygulaması\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.pdb
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.dll.config
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.pdb
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.exe
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.exe.config
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.rsp
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.exe
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.exe.config
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.rsp
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.AppContext.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Console.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.Compression.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Net.Http.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.ValueTuple.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.exe
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.exe.config
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.rsp
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\VBCSCompiler.exe
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\EntityFramework.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\EntityFramework.SqlServer.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\System.Web.Helpers.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\System.Web.Mvc.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\System.Web.Razor.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Razor.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\EntityFramework.xml
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\EntityFramework.SqlServer.xml
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\System.Web.Razor.xml
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.xml
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Razor.xml
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\System.Web.Helpers.xml
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\System.Web.Mvc.xml
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.CopyComplete
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.dll
+C:\Users\HJP\Desktop\stoktakibi kullanıcılı\stoktakibi kullanıcılı\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.pdb
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.dll.config
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.pdb
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.exe
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.exe.config
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.rsp
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.exe
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.exe.config
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.rsp
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.AppContext.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Console.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.Compression.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Net.Http.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.ValueTuple.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.exe
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.exe.config
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.rsp
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\VBCSCompiler.exe
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\EntityFramework.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\EntityFramework.SqlServer.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Helpers.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Mvc.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Razor.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Razor.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\EntityFramework.xml
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\EntityFramework.SqlServer.xml
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Razor.xml
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.xml
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Razor.xml
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Helpers.xml
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Mvc.xml
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.CopyComplete
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.dll
+C:\Users\HJP\Desktop\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.pdb
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.dll.config
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.pdb
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.exe
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.exe.config
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.rsp
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.exe
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.exe.config
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.rsp
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.AppContext.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Console.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.Compression.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Net.Http.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.ValueTuple.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.exe
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.exe.config
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.rsp
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\VBCSCompiler.exe
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\EntityFramework.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\EntityFramework.SqlServer.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Helpers.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Mvc.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Razor.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Razor.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\EntityFramework.xml
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\EntityFramework.SqlServer.xml
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Razor.xml
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.xml
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Razor.xml
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Helpers.xml
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\System.Web.Mvc.xml
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.CopyComplete
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.dll
+C:\Users\HJP\Desktop\mvcdbfirst stok\ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.pdb
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.dll.config
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\stoktakibiproje.pdb
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.exe
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.exe.config
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\csc.rsp
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.exe
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.exe.config
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\csi.rsp
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.AppContext.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Console.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.Compression.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Net.Http.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.ValueTuple.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.exe
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.exe.config
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\vbc.rsp
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\VBCSCompiler.exe
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\EntityFramework.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\EntityFramework.SqlServer.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Helpers.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Mvc.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Razor.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Razor.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\EntityFramework.xml
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\EntityFramework.SqlServer.xml
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Razor.xml
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.xml
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Webpages.Razor.xml
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Helpers.xml
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\System.Web.Mvc.xml
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.CopyComplete
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\obj\Debug\stoktakibiproje.pdb
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\PagedList.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\PagedList.Mvc.dll
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\PagedList.xml
+C:\Users\HJP\Desktop\stoktakibiproje\stoktakibiproje\bin\PagedList.Mvc.xml
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\stoktakibiproje.dll.config
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\stoktakibiproje.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\stoktakibiproje.pdb
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\csc.exe
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\csc.exe.config
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\csc.rsp
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\csi.exe
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\csi.exe.config
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\csi.rsp
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.AppContext.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Console.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.IO.Compression.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Net.Http.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.ValueTuple.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\vbc.exe
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\vbc.exe.config
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\vbc.rsp
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\VBCSCompiler.exe
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\EntityFramework.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\EntityFramework.SqlServer.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\PagedList.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\PagedList.Mvc.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\System.Web.Helpers.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\System.Web.Mvc.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\System.Web.Razor.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\System.Web.Webpages.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\System.Web.Webpages.Razor.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\EntityFramework.xml
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\EntityFramework.SqlServer.xml
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\PagedList.xml
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\PagedList.Mvc.xml
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\System.Web.Razor.xml
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\System.Web.Webpages.xml
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\System.Web.Webpages.Razor.xml
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\System.Web.Helpers.xml
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\System.Web.Mvc.xml
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.AssemblyReference.cache
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.CoreCompileInputs.cache
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\obj\Debug\stoktakibiproje.csproj.CopyComplete
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\obj\Debug\stoktakibiproje.dll
+C:\Users\HJP\Desktop\Stoktakibiproje(ASP.NET MVC DB First ile Admin Paneli ve CRUD işlemleri)\stoktakibiproje\obj\Debug\stoktakibiproje.pdb

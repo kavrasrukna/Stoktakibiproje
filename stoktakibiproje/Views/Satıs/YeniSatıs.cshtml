@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "YeniSatıs";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+<form class="form-group" method="post">
+    <div>
+        <label> Ürün Id</label>
+        <input type="text" class="form-control" name="urunid" required="" placeholder="Ürün Id'yi yazınız"/>
+    </div>
+    <div>
+        <label> Müşteri Id</label>
+        <input type="text" class="form-control" name="musteriid" required="" placeholder="Müşteri Id'yi yazınız"/>
+    </div>
+    <div>
+        <label> Adet</label>
+        <input type="text" class="form-control" name="adet" required="" placeholder="Adet yazınız" />
+    </div>
+    <div>
+        <label> Fiyat</label>
+        <input type="text" class="form-control" name="fiyat" required="" placeholder="Fiyat yazınız"/>
+    </div>
+    <div style="margin-top:15px">
+        <button class="btn btn-info">Satış Ekle</button>
+    </div>
+</form>
+

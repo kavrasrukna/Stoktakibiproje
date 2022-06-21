@@ -1,0 +1,107 @@
+﻿@using stoktakibiproje.Models.Entity
+@using PagedList
+@using PagedList.Mvc
+@model PagedList.IPagedList<tblurunler>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+@*sayfalama işlemi için yukarıya pagedlist kütüphanelerimizi ekledik*@
+@*arama işlemini tek bir işlemle de yaparız manage nuget packages dan jquery.datatables ekledik content içine datatables geldiyse sorun yok*@
+@*sonrasında search şeklinde yazar yazmaz arama yapması ve filtreli arama işlemi için bu eklentiyi ekledikten sonra*@
+@*scriptteki özellikler için table id ekledim tbl adında ve aşağıda onu kullandım #tbl1 şeklinde*@
+@*sonrasında controllerında da işlemler yaptık*@
+<table id="tbl1" class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ÜRÜN ID</th>
+            <th>ÜRÜN ADI</th>
+            <th>MARKA</th>
+            <th>KATEGORİ</th> @*kategori id yerine kategori yazdım*@
+            <th>FİYAT</th>
+            <th>STOK</th>
+            <th>SİL</th>
+            <th>GÜNCELLE</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ktgr in Model)
+        {
+            <tr>
+                <td>@ktgr.urunid</td>
+                <td>@ktgr.urunad</td>
+                <td>@ktgr.marka</td>
+                <td>@ktgr.tblkategoriler.kategoriad</td> @*kategori id yerine kategori adını getirdik*@
+                <td>@ktgr.fiyat</td>
+                <td>@ktgr.stok</td>
+                @*<td><a href="/Urun/SIL/@ktgr.urunid" class="btn btn-danger">SİL</a></td>*@
+                <td>@Html.ActionLink("SİL", "SIL", new { id = ktgr.urunid }, new { @class = "btn btn-danger", onclick = "return confirm('Silmek İsteğinizden Emin Misiniz?')" })</td> @*1.parametre adı butonda gözükecek ad,2.parametre gideceği yer*@
+                <td><a href="/Urun/UrunGetir/@ktgr.urunid" class="btn btn-success">GÜNCELLE</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@*sonrasında pagedlist ile sayfalar arası geçiş yapmak için UrlAction oluşturduk. Kaç tane sayfa varsa otomatik olarak controllerdan çekip o kadar parçaya ayıracak ve ona göre ilerleyecek *@
+@*Controllerda sayfalar arası geçiş için sayfa adında değişken tanımladık int sayfa=1 den başlattık ? koysaydık int? sayfa null değer almasını sağlar ?*@
+
+@Html.PagedListPager((IPagedList)Model, sayfa => Url.Action("Index", new { sayfa })) @*Index e gel yeni sayfa oluştur*@
+
+<a href="/Urun/YeniUrun/" class="btn btn-primary">YENİ ÜRÜN EKLE</a>
+
+@*datatables kullanımı için https://mesutd.com/datatables-eklentisi-ile-tablolarda-gelismis-ozelliklerin-kullanimi *@
+
+<script type="text/javascript" src="https://cdn.datatables.net/v/bs-3.3.7/jq-2.2.4/jszip-3.1.3/pdfmake-0.1.27/dt-1.10.15/b-1.3.1/b-html5-1.3.1/b-print-1.3.1/r-2.1.1/rg-1.0.0/datatables.min.js"></script>
+<link href="~/Content/DataTables/css/dataTables.bootstrap4.css" rel="stylesheet" /> @*sol taraftan datatables css içinen bul sürükle*@
+
+@*tablomuza DataTables özelliği vermek için bu şekilde 1. yöntem ingilizce*@
+@*<script>
+        $('#tbl1').DataTable();
+    </script>*@
+
+@* ya da DataTables’ı Türkçe yapmak için 2. yöntem *@
+<script>
+    $('#tbl1').DataTable({
+        language: {
+            info: "_TOTAL_ kayıttan _START_ - _END_ kayıt gösteriliyor.",
+            infoEmpty: "Gösterilecek hiç kayıt yok.",
+            loadingRecords: "Kayıtlar yükleniyor.",
+            lengthMenu: "Sayfada _MENU_ kayıt göster",
+            zeroRecords: "Tablo boş",
+            search: "Arama:",
+            infoFiltered: "(toplam _MAX_ kayıttan filtrelenenler)",
+            buttons: {
+                copyTitle: "Panoya kopyalandı.",
+                copySuccess: "Panoya %d satır kopyalandı",
+                copy: "Kopyala",
+                print: "Yazdır",
+            },
+
+            paginate: {
+                first: "İlk",
+                previous: "Önceki",
+                next: "Sonraki",
+                last: "Son"
+            },
+        },
+        dom: 'Bfrtip',
+        buttons: [
+            'copy', 'excel', 'pdf', 'print'
+        ],
+        responsive: true
+    });
+</script>
+@*tablomuzu dışarı aktarma özelliğini (Excel, PDF, Yazdırma ve kopyalanması) ve responsive şeklinde görünmesini sağlayan
+    kodlarda tablomuzu daha işlevsel yapacaktır.*@
+<!--$('#tbl1').DataTable({
+            dom: 'Bfrtip',
+    buttons: [
+        'copy', 'excel', 'pdf', 'print'
+    ],
+    responsive: true
+});-->
+@*ASP.NET MVC uygulamalarında yaygın olarak kullanılan bir grid var: DataTables. Bu grid normal bir tabloyu; arama, sıralama, sayfalama özellikleri bulunan jQuery ve AJAX ile çalışan responsive olabilen dinamik bir gride dönüştürüyor.
+
+Kullanmak için jQuery DataTables’in javascript ve css dosyasını HTML sayfamıza eklemek ve konfigürasyonlarını yapmak gerekiyor.*@
+
+@* Not: Bir kayıt silinmiyorsa ilişkili tablo vardır o yüzden silinmiyor olabilir *@

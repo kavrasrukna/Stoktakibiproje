@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="StoktakibiModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="tblkategoriler">
+    <Key>
+      <PropertyRef Name="kategoriid" />
+    </Key>
+    <Property Name="kategoriid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kategoriad" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblkullanici">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kullaniciadi" Type="varchar" MaxLength="50" />
+    <Property Name="sifre" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblmusteriler">
+    <Key>
+      <PropertyRef Name="musteriid" />
+    </Key>
+    <Property Name="musteriid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="musteriad" Type="varchar" MaxLength="50" />
+    <Property Name="musterisoyad" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tblsatislar">
+    <Key>
+      <PropertyRef Name="satisid" />
+    </Key>
+    <Property Name="satisid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="urunid" Type="int" />
+    <Property Name="musteriid" Type="int" />
+    <Property Name="adet" Type="int" />
+    <Property Name="fiyat" Type="decimal" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityType Name="tblurunler">
+    <Key>
+      <PropertyRef Name="urunid" />
+    </Key>
+    <Property Name="urunid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="urunad" Type="varchar" MaxLength="50" />
+    <Property Name="marka" Type="varchar" MaxLength="50" />
+    <Property Name="kategoriid" Type="int" />
+    <Property Name="fiyat" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="stok" Type="int" />
+  </EntityType>
+  <Association Name="FK_tblsatislar_tblmusteriler">
+    <End Role="tblmusteriler" Type="Self.tblmusteriler" Multiplicity="0..1" />
+    <End Role="tblsatislar" Type="Self.tblsatislar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblmusteriler">
+        <PropertyRef Name="musteriid" />
+      </Principal>
+      <Dependent Role="tblsatislar">
+        <PropertyRef Name="musteriid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblsatislar_tblurunler">
+    <End Role="tblurunler" Type="Self.tblurunler" Multiplicity="0..1" />
+    <End Role="tblsatislar" Type="Self.tblsatislar" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblurunler">
+        <PropertyRef Name="urunid" />
+      </Principal>
+      <Dependent Role="tblsatislar">
+        <PropertyRef Name="urunid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tblurunler_tblkategoriler">
+    <End Role="tblkategoriler" Type="Self.tblkategoriler" Multiplicity="0..1" />
+    <End Role="tblurunler" Type="Self.tblurunler" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblkategoriler">
+        <PropertyRef Name="kategoriid" />
+      </Principal>
+      <Dependent Role="tblurunler">
+        <PropertyRef Name="kategoriid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="StoktakibiModelStoreContainer">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblkategoriler" EntityType="Self.tblkategoriler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblkullanici" EntityType="Self.tblkullanici" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblmusteriler" EntityType="Self.tblmusteriler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblsatislar" EntityType="Self.tblsatislar" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tblurunler" EntityType="Self.tblurunler" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_tblsatislar_tblmusteriler" Association="Self.FK_tblsatislar_tblmusteriler">
+      <End Role="tblmusteriler" EntitySet="tblmusteriler" />
+      <End Role="tblsatislar" EntitySet="tblsatislar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblsatislar_tblurunler" Association="Self.FK_tblsatislar_tblurunler">
+      <End Role="tblurunler" EntitySet="tblurunler" />
+      <End Role="tblsatislar" EntitySet="tblsatislar" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tblurunler_tblkategoriler" Association="Self.FK_tblurunler_tblkategoriler">
+      <End Role="tblkategoriler" EntitySet="tblkategoriler" />
+      <End Role="tblurunler" EntitySet="tblurunler" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

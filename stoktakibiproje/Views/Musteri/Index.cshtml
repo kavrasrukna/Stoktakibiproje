@@ -1,0 +1,101 @@
+﻿@using stoktakibiproje.Models.Entity
+@using PagedList
+@using PagedList.Mvc
+@model PagedList.IPagedList<tblmusteriler>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@*Ara butonuna tıklayarak arama yapmak için yukarıdaki pagedlist yerine --> @model List<tblmusteriler>*@
+@*Arama işlemi için ActionResult adı,Controller adı,Form ne zaman çalışacak*@
+
+@*@using (Html.BeginForm("Index", "Musteri", FormMethod.Get))
+{
+    <p>
+        <b>Aranacak Müşteri Adı: </b>@Html.TextBox("p")
+        <input type="submit" value="Ara" />
+    </p>
+}-->*@
+@*buraya kadar arama sonrasında musteriler controller içindeki Indexte işlemlerimizi yapıyoruz*@
+
+<table id="tbl1" class="table table-bordered">
+    <thead>
+        <tr>
+            <th>MÜŞTERİ ID</th>
+            <th>MÜŞTERİ ADI</th>
+            <th>MÜŞTERİ SOYADI</th>
+            <th>SİL</th>
+            <th>GÜNCELLE</th>
+        </tr>
+    </thead>
+<tbody>
+        @foreach (var ktgr in Model)
+        {
+            <tr>
+                <td>@ktgr.musteriid</td>
+                <td>@ktgr.musteriad</td>
+                <td>@ktgr.musterisoyad</td>
+                @*<td><a href="/Musteri/SIL/@ktgr.musteriid" class="btn btn-danger">SİL</a></td>*@
+                <td>@Html.ActionLink("SİL", "SIL", new { id = ktgr.musteriid }, new { @class = "btn btn-danger", onclick = "return confirm('Silmek İsteğinizden Emin Misiniz?')" })</td> @*1.parametre adı butonda gözükecek ad,2.parametre gideceği yer*@
+                <td><a href="/Musteri/MusteriGetir/@ktgr.musteriid" class="btn btn-success">GÜNCELLE</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@*sonrasında pagedlist ile sayfalar arası geçiş yapmak için Urlaction oluşturduk. Kaç tane sayfa varsa otomatik olarak controllerdan çekip o kadar parçaya ayıracak ve ona göre ilerleyecek *@
+@*Controllerda safalar arası geçiş için sayfa adında değişken tanımladık int sayfa=1 den başlattık ? koysaydık int? sayfa null değer almasını sağlar ?*@
+@Html.PagedListPager((IPagedList)Model, sayfa => Url.Action("Index", new { sayfa })) @*Index e gel yeni sayfa oluştur*@
+
+<a href="/Musteri/YeniMusteri/" class="btn btn-primary">YENİ MÜŞTERİ EKLE</a>
+
+<script type="text/javascript" src="https://cdn.datatables.net/v/bs-3.3.7/jq-2.2.4/jszip-3.1.3/pdfmake-0.1.27/dt-1.10.15/b-1.3.1/b-html5-1.3.1/b-print-1.3.1/r-2.1.1/rg-1.0.0/datatables.min.js"></script>
+<link href="~/Content/DataTables/css/dataTables.bootstrap4.css" rel="stylesheet" /> @*sol taraftan datatables css içinen bul sürükle*@
+
+@*tablomuza DataTables özelliği vermek için bu şekilde 1. yöntem ingilizce*@
+@*<script>
+        $('#tbl1').DataTable();
+    </script>*@
+
+@* ya da DataTables’ı Türkçe yapmak için 2. yöntem *@
+<script>
+    $('#tbl1').DataTable({
+        language: {
+            info: "_TOTAL_ kayıttan _START_ - _END_ kayıt gösteriliyor.",
+            infoEmpty: "Gösterilecek hiç kayıt yok.",
+            loadingRecords: "Kayıtlar yükleniyor.",
+            lengthMenu: "Sayfada _MENU_ kayıt göster",
+            zeroRecords: "Tablo boş",
+            search: "Arama:",
+            infoFiltered: "(toplam _MAX_ kayıttan filtrelenenler)",
+            buttons: {
+                copyTitle: "Panoya kopyalandı.",
+                copySuccess: "Panoya %d satır kopyalandı",
+                copy: "Kopyala",
+                print: "Yazdır",
+            },
+
+            paginate: {
+                first: "İlk",
+                previous: "Önceki",
+                next: "Sonraki",
+                last: "Son"
+            },
+        },
+        dom: 'Bfrtip',
+        buttons: [
+            'copy', 'excel', 'pdf', 'print'
+        ],
+        responsive: true
+    });
+</script>
+@*tablomuzu dışarı aktarma özelliğini (Excel, PDF, Yazdırma ve kopyalanması) ve responsive şeklinde görünmesini sağlayan
+    kodlarda tablomuzu daha işlevsel yapacaktır.*@
+<!--$('#tbl1').DataTable({
+            dom: 'Bfrtip',
+    buttons: [
+        'copy', 'excel', 'pdf', 'print'
+    ],
+    responsive: true
+});-->

@@ -1,0 +1,20 @@
+﻿@model stoktakibiproje.Models.Entity.tblurunler
+@{
+    ViewBag.Title = "YeniKategori";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<form class="form-group" method="post">
+    <div>
+        <label> Kategori Adı</label>
+        <input type="text" class="form-control" name="Kategoriad" required="" placeholder="Kategori adını yazınız" maxlength=50 /> @*required girilmesi zorunlu üzerine gelince lütfen bu alanı doldurun uyarısı verir boş bırakılmaz, max kararkter 50 den fazla giremez veritabanına bak veritipine ve karakter sayısına, placeholder text içinde yer tutan yazı*@
+        <div style="margin-top:15px">
+            <button class="btn btn-info" id="btn1">Kategori Ekle</button>
+        </div>
+    </div>
+    <script> /*alert uyarı vermek için yukarıdaki btn1 id sini yazdık*/
+        $('#btn1').click(function () {
+            alert('Kategori Ekleme İşlemi Yapıldı!');
+        });
+    </script>
+</form>
